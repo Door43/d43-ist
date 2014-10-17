@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ist:home|Door43 (ist)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ist|d43-ist repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ist/archive/master.zip|d43-ist.zip]]
+
+**Recent Changes**
+{{changes>ns = ist}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ist|Ethnologue data]]
+
